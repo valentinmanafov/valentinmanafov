@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I'm a passionate software developer currently stud
 ---
 
 ## 📫 How to Reach Me:
-- **LinkedIn:** 
+- **LinkedIn:** [Valentin Manafov](https://www.linkedin.com/in/valentin-manafov-16095a274/)
 - **Email:** valentin@binarynull.com
 
 Let’s connect and create something amazing together!

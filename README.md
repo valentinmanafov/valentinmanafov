@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I'm a passionate software developer currently stud
 ---
 
 ## 📫 How to Reach Me:
-- **LinkedIn:** [Your LinkedIn Profile URL]
-- **Email:** [Your Email Address]
+- **LinkedIn:** 
+- **Email:** valentin@binarynull.com
 
 Let’s connect and create something amazing together!

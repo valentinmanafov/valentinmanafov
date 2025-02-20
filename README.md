@@ -4,34 +4,35 @@ Welcome to my GitHub profile! I'm a passionate software developer currently stud
 
 ---
 
-## 💻 Technologies I Work With:
+## 💻 Technologies I Work With  
 
-### Frontend Development:
-- **Proficient:** JavaScript (JS), HTML, CSS, React
-- **Exploring:** React Native  
+### Frontend Development  
+- **Proficient:** HTML, CSS, SASS, JavaScript (JS), React  
+- **Exploring:** React Native, TypeScript  
 
-### Backend Development:
-- **Intermediate:** Java
-- **Basics:** C#, C++  
+### Backend Development  
+- **Intermediate:** Node.js, Next.js, MongoDB, Java 
+- **Basic Knowledge:** C#, C++, PHP  
+
 
 ---
 
-## 🌟 My Skills at a Glance:
+## 🌟 My Skills at a Glance  
 - **Frontend Specialist:** Crafting intuitive and responsive web applications with modern frameworks like React.  
-- **Problem Solver:** Tackling challenges with Java and honing my object-oriented programming skills.  
-- **Learner:** Continuously expanding my knowledge base with new tools and technologies.  
+- **Backend Enthusiast:** Building robust APIs and server-side applications with Node.js, Express.js, and MongoDB.  
+- **Lifelong Learner:** Continuously expanding my knowledge base with new tools and technologies.  
 
 ---
 
 ## 🎯 Goals:
 - To contribute to innovative projects that push the boundaries of technology.
 - To deepen my expertise in full-stack development.
-- To collaborate with like-minded developers on exciting open-source projects.
+- To collaborate with like-minded developers on exciting projects.
 
 ---
 
 ## 📫 How to Reach Me:
 - **LinkedIn:** [Valentin Manafov](https://www.linkedin.com/in/valentin-manafov-16095a274/)
-- **Email:** valentin@binarynull.com
+- **Email:** contact@valentinmanafov.com
 
 Let’s connect and create something amazing together!

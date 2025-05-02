@@ -7,19 +7,18 @@ Welcome to my GitHub profile! I'm a passionate software developer currently stud
 ## 💻 Technologies I Work With  
 
 ### Frontend Development  
-- **Proficient:** HTML, CSS, SASS, JavaScript (JS), React  
-- **Exploring:** React Native, TypeScript  
+- **Proficient:** HTML, CSS, JavaScript  
+- **Exploring:** React  
 
 ### Backend Development  
-- **Intermediate:** Node.js, Next.js, MongoDB, Java 
-- **Basic Knowledge:** C#, C++, PHP  
+- **Intermediate:** Java, PHP
+- **Basic Knowledge:** C#, C++  
 
 
 ---
 
 ## 🌟 My Skills at a Glance  
 - **Frontend Specialist:** Crafting intuitive and responsive web applications with modern frameworks like React.  
-- **Backend Enthusiast:** Building robust APIs and server-side applications with Node.js, Express.js, and MongoDB.  
 - **Lifelong Learner:** Continuously expanding my knowledge base with new tools and technologies.  
 
 ---

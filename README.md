@@ -1,14 +1,15 @@
 # 👋 Hi there, I'm Valentin Manafov!  
 
-Welcome to my GitHub profile! I'm a passionate software developer currently studying **Software and Web Technologies** at the **Technical University of Varna**. My journey in tech has been fueled by curiosity and the desire to build meaningful digital experiences.
+Welcome to my GitHub profile! I'm a passionate software developer currently studying **Software and Web Technologies** at the **Technical University of Varna** and working @ **[Craft Berry](https://craftberry.co/)**. My journey in tech has been fueled by curiosity and the desire to build meaningful digital experiences.
 
 ---
 
 ## 💻 Technologies I Work With  
 
 ### Frontend Development  
-- **Proficient:** HTML, CSS, JavaScript  
-- **Exploring:** React  
+- **Proficient:** HTML, CSS, JavaScript, React
+- **Intermediate:** React, React Native, Liquid, Typescript
+- **Exploring:** Next.js, Swift
 
 ### Backend Development  
 - **Intermediate:** Java, PHP
